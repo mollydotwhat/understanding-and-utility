@@ -6,6 +6,7 @@
 
 <!-- ## Summary -->
 <!-- what it says on the tin -->
+Don't let the keysmash look fool you--those characters are meaningful and (can be) useful.
 
 <!-- ## Table of Contents -->
 <!-- how long is this going to be?? -->
