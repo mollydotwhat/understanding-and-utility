@@ -27,7 +27,7 @@ how long is this going to be??
 
 characters that are anchors: '&', '^'. (the ones inside the quotes)
 `^` goes before exact string to match, or if you put them in brackets you can have a list of matches.
-first anchor `^([a-z0-9_\.-]+)` where ^ means that from a to z, 0 to 9, or underscore matches. The use of characters `()`, `+`, `\.-` will be explained in later sections.
+first anchor `^([a-z0-9_\.-]+)` where ^ means that from a to z, 0 to 9, or underscore matches. The use of characters `()`, `+`, `\.-` will be explained in later sections. 
 
 '$' means match the string in FRONT of the anchor. Works with brackets the same as above.
 
@@ -35,13 +35,13 @@ first anchor `^([a-z0-9_\.-]+)` where ^ means that from a to z, 0 to 9, or under
 ### Quantifiers
 limiting, but also greedy/lazy
 + at end means as many as possible/available
-in `^([a-z0-9_\.-]+)` the `+` asks it to match *every* time one of the characters inside the `[]` is present.
+in `^([a-z0-9_\.-]+)` the `+` asks it to match *every* time one of the characters inside the `[]` is present. So `th32i_ng7` would match.
 
 ### Grouping Constructs
 `()` capturing group
 
 ### Bracket Expressions
-Brackets are for a range of characters to match. For example, `[this]` will match all of these: ink, share, heatwave, and teapot.
+Brackets are for a range of characters to match. For example, `[a-z0-9_\.-]` will match all of these: `56ink`, `shar1e`, `heat-wave`, and `teapot`.
 carat *inside* brackets means *exclude* those characters.
 
 ### Character Classes
