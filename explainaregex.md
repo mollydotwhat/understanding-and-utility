@@ -26,6 +26,7 @@ characters that are anchors: '&', '^'. (the ones inside the quotes)
 '^' goes before exact string to match, or if you put them in brackets you can have a list of matches.
 '$' means match the string in FRONT of the character. Works with brackets the same as above.
 Brackets are for a range of characters to match. For example, [this] will match all of these: ink, share, heatwave, and teapot.
+carat inside brackets means DON'T include
 
 ### Quantifiers
 
