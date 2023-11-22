@@ -1,42 +1,41 @@
-<!-- pick regex. understand regex. use gist format here to write a very very long explanation. -->
+pick regex. understand regex. use gist format here to write a very very long explanation. 
+# Title
+is intro necessary?
+don't forget code snippet. and the markdown for code snippets.
 
-<!-- # Title -->
-<!-- is intro necessary? -->
-<!-- don't forget code snippet. and the markdown for code snippets. -->
+## Summary
+what it says on the tin
+JUST SAY WHAT THIS SPECIFIC ONE DOES OVERALL. You don't have to sell someone on regex usefulness.
 
-<!-- ## Summary -->
-<!-- what it says on the tin -->
-<!-- JUST SAY WHAT THIS SPECIFIC ONE DOES OVERALL. You don't have to sell someone on regex usefulness. -->
+## Table of Contents
+how long is this going to be??
+- [Anchors](#anchors)
+- [Quantifiers](#quantifiers)
+- [Grouping Constructs](#grouping-constructs)
+- [Bracket Expressions](#bracket-expressions)
+- [Character Classes](#character-classes)
+- [The OR Operator](#the-or-operator)
+- [Flags](#flags)
+- [Character Escapes](#character-escapes)
 
-<!-- ## Table of Contents -->
-<!-- how long is this going to be?? -->
-<!-- - [Anchors](#anchors) -->
-<!-- - [Quantifiers](#quantifiers) -->
-<!-- - [Grouping Constructs](#grouping-constructs) -->
-<!-- - [Bracket Expressions](#bracket-expressions) -->
-<!-- - [Character Classes](#character-classes) -->
-<!-- - [The OR Operator](#the-or-operator) -->
-<!-- - [Flags](#flags) -->
-<!-- - [Character Escapes](#character-escapes) -->
+## Regex Components
 
-<!-- ## Regex Components -->
+### Anchors
 
-<!-- ### Anchors -->
+### Quantifiers
 
-<!-- ### Quantifiers -->
+### Grouping Constructs
 
-<!-- ### Grouping Constructs -->
+### Bracket Expressions
 
-<!-- ### Bracket Expressions -->
+### Character Classes
 
-<!-- ### Character Classes -->
+### The OR Operator
 
-<!-- ### The OR Operator -->
+### Flags
 
-<!-- ### Flags -->
-
-<!-- ### Character Escapes -->
+### Character Escapes
 
 
-<!-- ## Author -->
-<!-- about me (SHORT i hope. how do you write these without sounding either arrogant or miserable???), link to github profile -->
+## Author
+about me (SHORT i hope. how do you write these without sounding either arrogant or miserable???), link to github profile
