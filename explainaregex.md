@@ -1,12 +1,12 @@
-<!-- pick regex -->
+<!-- pick regex. understand regex. use gist format here to write a very very long explanation. -->
 
 <!-- # Title -->
 <!-- is intro necessary? -->
-<!-- don't forget code snippet -->
+<!-- don't forget code snippet. and the markdown for code snippets. -->
 
 <!-- ## Summary -->
 <!-- what it says on the tin -->
-Don't let the keysmash look fool you--those characters are meaningful and (can be) useful.
+Don't let the keysmash look fool you--those characters are meaningful and (can be) useful. You just have to translate the meaning into human language, and know your use case.
 
 <!-- ## Table of Contents -->
 <!-- how long is this going to be?? -->
@@ -39,4 +39,4 @@ Don't let the keysmash look fool you--those characters are meaningful and (can b
 
 
 <!-- ## Author -->
-<!-- about me (SHORT i hope), link to github profile -->
+<!-- about me (SHORT i hope. how do you write these without sounding either arrogant or miserable???), link to github profile -->
