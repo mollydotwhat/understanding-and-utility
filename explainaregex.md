@@ -6,7 +6,7 @@
 
 <!-- ## Summary -->
 <!-- what it says on the tin -->
-Don't let the keysmash look fool you--those characters are meaningful and (can be) useful. You just have to translate the meaning into human language, and know your use case.
+<!-- JUST SAY WHAT THIS SPECIFIC ONE DOES OVERALL. You don't have to sell someone on regex usefulness. -->
 
 <!-- ## Table of Contents -->
 <!-- how long is this going to be?? -->
