@@ -1,4 +1,5 @@
-pick regex. understand regex. use gist format here to write a very very long explanation. 
+THIS IS STILL A DRAFT.
+
 # Title
 is intro necessary?
 don't forget code snippet. and the markdown for code snippets.
@@ -21,6 +22,10 @@ how long is this going to be??
 ## Regex Components
 
 ### Anchors
+characters that are anchors: '&', '^'. (the ones inside the quotes)
+'^' goes before exact string to match, or if you put them in brackets you can have a list of matches.
+'$' means match the string in FRONT of the character. Works with brackets the same as above.
+Brackets are for a range of characters to match. For example, [this] will match all of these: ink, share, heatwave, and teapot.
 
 ### Quantifiers
 
